@@ -1,0 +1,24 @@
+{
+  "name": "newprojectmongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^5.3.3",
+    "mongoose": "^5.3.4",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "handlebars": "^4.5.0",
+    "webpack-dev-middleware": "^5.0.0",
+    "webpack-hot-middleware": "^2.25.0"
+  }
+}
